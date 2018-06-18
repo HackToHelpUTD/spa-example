@@ -7,6 +7,7 @@ it is programmed. This example does not include or talk about routing.
 
 ## Running this locally
 * `git clone https://github.com/HackToHelpUSA/spa-example.git`
+* `cd spa-example`
 * `npm install`
 * `npm start`
 * Go to `localhost:3000` on your browser
