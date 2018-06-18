@@ -1,0 +1,15 @@
+{
+  "name": "spa-example",
+  "version": "1.0.0",
+  "description": "**SPA - Single Page Application** This SPA example has been created to demonstrate what a SPA looks like and how it is programmed. This example does not include or talk about routing. ## Running this locally * `git clone https://github.com/HackToHelpUSA/spa-example.git` * `npm install` * `npm start`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "express": "^4.16.3"
+  }
+}

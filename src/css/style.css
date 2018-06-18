@@ -1,0 +1,44 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: "Comfortaa", sans-serif;
+}
+
+.github-info {
+  padding: 0 3rem;
+}
+
+.form-control {
+  margin: 0 0 1rem 0;
+}
+
+.container {
+  padding: 3rem 1rem;
+}
+
+.card {
+  margin: 1rem 0;
+  padding: 3rem 1rem;
+}
+
+.card .card-title {
+  font-size: 1rem;
+}
+
+.title h1 {
+  font-size: 1.5rem;
+}
+
+.title {
+  margin: 0 0 3rem 0;
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .github-info {
+    padding: 0 15rem;
+  }
+}
